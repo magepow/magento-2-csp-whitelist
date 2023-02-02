@@ -1,5 +1,18 @@
 ## Magento 2 Csp Whitelist Extension
 
+[![Latest Stable Version](https://poser.pugx.org/magepow/cspwhitelist/v/stable)](https://packagist.org/packages/magepow/cspwhitelist)
+[![Total Downloads](https://poser.pugx.org/magepow/cspwhitelist/downloads)](https://packagist.org/packages/magepow/cspwhitelist)
+[![Daily Downloads](https://poser.pugx.org/magepow/cspwhitelist/d/daily)](https://packagist.org/packages/magepow/cspwhitelist)
+
+### 1. Highlight Features
+### 2. How to install Magento 2 Csp Whitelist
+#### ✓ Install Magepow Csp Whitelist via composer (recommend)
+Run the following command in Magento 2 root folder:
+
+```
+composer require magepow/categories
+php bin/magento module:enable Magepow_CspWhitelist
+```
 
 ### Donation
 
