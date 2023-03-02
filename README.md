@@ -1,3 +1,5 @@
+[<img src="https://github.com/magepow/themeforest/blob/master/shopify/shopify_affiliate.jpg" >](https://shopify.pxf.io/VyL446)
+
 ## Magento 2 Csp Whitelist Extension
 
 [![Latest Stable Version](https://poser.pugx.org/magepow/cspwhitelist/v/stable)](https://packagist.org/packages/magepow/cspwhitelist)
