@@ -12,7 +12,7 @@
 Run the following command in Magento 2 root folder:
 
 ```
-composer require magepow/categories
+composer require magepow/cspwhitelist
 php bin/magento module:enable Magepow_CspWhitelist
 ```
 
